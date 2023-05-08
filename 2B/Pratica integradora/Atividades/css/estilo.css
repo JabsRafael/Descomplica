@@ -1,0 +1,15 @@
+body{
+    background-color: #32205f;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+    color: #b5eff2;
+    text-transform: uppercase;
+}
+.CorpoTexto1{
+    color: #bee41e;
+}
+.CorpoTexto2{
+    color:#b5eff2;
+}
